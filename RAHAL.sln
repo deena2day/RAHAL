@@ -1,0 +1,98 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RAHAL.Android", "RAHAL.Android\RAHAL.Android.csproj", "{32863C00-C4EA-4542-A132-406F7A31AAC4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RAHAL.iOS", "RAHAL.iOS\RAHAL.iOS.csproj", "{F2AE2E84-5950-4C30-AF9E-30F63E1F3C8F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RAHAL", "RAHAL\RAHAL.csproj", "{6726C034-B2E0-40C2-B1D9-4804B81A2951}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|iPhone = Debug|iPhone
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|Any CPU = Release|Any CPU
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32863C00-C4EA-4542-A132-406F7A31AAC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32863C00-C4EA-4542-A132-406F7A31AAC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32863C00-C4EA-4542-A132-406F7A31AAC4}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{32863C00-C4EA-4542-A132-406F7A31AAC4}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{32863C00-C4EA-4542-A132-406F7A31AAC4}.Debug|iPhone.Build.0 = Debug|Any CPU
+		{32863C00-C4EA-4542-A132-406F7A31AAC4}.Debug|iPhone.Deploy.0 = Debug|Any CPU
+		{32863C00-C4EA-4542-A132-406F7A31AAC4}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{32863C00-C4EA-4542-A132-406F7A31AAC4}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{32863C00-C4EA-4542-A132-406F7A31AAC4}.Debug|iPhoneSimulator.Deploy.0 = Debug|Any CPU
+		{32863C00-C4EA-4542-A132-406F7A31AAC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32863C00-C4EA-4542-A132-406F7A31AAC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32863C00-C4EA-4542-A132-406F7A31AAC4}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{32863C00-C4EA-4542-A132-406F7A31AAC4}.Release|iPhone.ActiveCfg = Release|Any CPU
+		{32863C00-C4EA-4542-A132-406F7A31AAC4}.Release|iPhone.Build.0 = Release|Any CPU
+		{32863C00-C4EA-4542-A132-406F7A31AAC4}.Release|iPhone.Deploy.0 = Release|Any CPU
+		{32863C00-C4EA-4542-A132-406F7A31AAC4}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{32863C00-C4EA-4542-A132-406F7A31AAC4}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
+		{32863C00-C4EA-4542-A132-406F7A31AAC4}.Release|iPhoneSimulator.Deploy.0 = Release|Any CPU
+		{F2AE2E84-5950-4C30-AF9E-30F63E1F3C8F}.Debug|Any CPU.ActiveCfg = Debug|iPhone
+		{F2AE2E84-5950-4C30-AF9E-30F63E1F3C8F}.Debug|Any CPU.Build.0 = Debug|iPhone
+		{F2AE2E84-5950-4C30-AF9E-30F63E1F3C8F}.Debug|Any CPU.Deploy.0 = Debug|iPhone
+		{F2AE2E84-5950-4C30-AF9E-30F63E1F3C8F}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{F2AE2E84-5950-4C30-AF9E-30F63E1F3C8F}.Debug|iPhone.Build.0 = Debug|iPhone
+		{F2AE2E84-5950-4C30-AF9E-30F63E1F3C8F}.Debug|iPhone.Deploy.0 = Debug|iPhone
+		{F2AE2E84-5950-4C30-AF9E-30F63E1F3C8F}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{F2AE2E84-5950-4C30-AF9E-30F63E1F3C8F}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{F2AE2E84-5950-4C30-AF9E-30F63E1F3C8F}.Debug|iPhoneSimulator.Deploy.0 = Debug|iPhoneSimulator
+		{F2AE2E84-5950-4C30-AF9E-30F63E1F3C8F}.Release|Any CPU.ActiveCfg = Release|iPhoneSimulator
+		{F2AE2E84-5950-4C30-AF9E-30F63E1F3C8F}.Release|Any CPU.Build.0 = Release|iPhoneSimulator
+		{F2AE2E84-5950-4C30-AF9E-30F63E1F3C8F}.Release|Any CPU.Deploy.0 = Release|iPhoneSimulator
+		{F2AE2E84-5950-4C30-AF9E-30F63E1F3C8F}.Release|iPhone.ActiveCfg = Release|iPhone
+		{F2AE2E84-5950-4C30-AF9E-30F63E1F3C8F}.Release|iPhone.Build.0 = Release|iPhone
+		{F2AE2E84-5950-4C30-AF9E-30F63E1F3C8F}.Release|iPhone.Deploy.0 = Release|iPhone
+		{F2AE2E84-5950-4C30-AF9E-30F63E1F3C8F}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{F2AE2E84-5950-4C30-AF9E-30F63E1F3C8F}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{F2AE2E84-5950-4C30-AF9E-30F63E1F3C8F}.Release|iPhoneSimulator.Deploy.0 = Release|iPhoneSimulator
+		{6726C034-B2E0-40C2-B1D9-4804B81A2951}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6726C034-B2E0-40C2-B1D9-4804B81A2951}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6726C034-B2E0-40C2-B1D9-4804B81A2951}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{6726C034-B2E0-40C2-B1D9-4804B81A2951}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{6726C034-B2E0-40C2-B1D9-4804B81A2951}.Debug|iPhone.Build.0 = Debug|Any CPU
+		{6726C034-B2E0-40C2-B1D9-4804B81A2951}.Debug|iPhone.Deploy.0 = Debug|Any CPU
+		{6726C034-B2E0-40C2-B1D9-4804B81A2951}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{6726C034-B2E0-40C2-B1D9-4804B81A2951}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{6726C034-B2E0-40C2-B1D9-4804B81A2951}.Debug|iPhoneSimulator.Deploy.0 = Debug|Any CPU
+		{6726C034-B2E0-40C2-B1D9-4804B81A2951}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6726C034-B2E0-40C2-B1D9-4804B81A2951}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6726C034-B2E0-40C2-B1D9-4804B81A2951}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{6726C034-B2E0-40C2-B1D9-4804B81A2951}.Release|iPhone.ActiveCfg = Release|Any CPU
+		{6726C034-B2E0-40C2-B1D9-4804B81A2951}.Release|iPhone.Build.0 = Release|Any CPU
+		{6726C034-B2E0-40C2-B1D9-4804B81A2951}.Release|iPhone.Deploy.0 = Release|Any CPU
+		{6726C034-B2E0-40C2-B1D9-4804B81A2951}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{6726C034-B2E0-40C2-B1D9-4804B81A2951}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
+		{6726C034-B2E0-40C2-B1D9-4804B81A2951}.Release|iPhoneSimulator.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {562E3B5D-ACC1-4875-B3E1-B249984C0EAF}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 4
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://tfs.qatarairways.com.qa:8080/tfs/hr
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = RAHAL.Android\\RAHAL.Android.csproj
+		SccProjectName1 = RAHAL.Android
+		SccLocalPath1 = RAHAL.Android
+		SccProjectUniqueName2 = RAHAL.iOS\\RAHAL.iOS.csproj
+		SccProjectName2 = RAHAL.iOS
+		SccLocalPath2 = RAHAL.iOS
+		SccProjectUniqueName3 = RAHAL\\RAHAL.csproj
+		SccProjectName3 = RAHAL
+		SccLocalPath3 = RAHAL
+	EndGlobalSection
+EndGlobal
